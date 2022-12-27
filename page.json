@@ -1,0 +1,22 @@
+{
+    "name": "Cem PEHLİVAN",
+    "description": "Web Software Development Manager",
+    "image_url": "https://raw.githubusercontent.com/cem-pehlivan/my-links/main/profile-picture.jpg",
+    "links": [
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/cem-pehlivan/",
+        "icon": "linkedin"
+      },
+      {
+        "title": "GitHub",
+        "url": "https://github.com/cempehlivan",
+        "icon": "github"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/cmphlvn",
+        "icon": "twitter"
+      }
+    ]
+  }
