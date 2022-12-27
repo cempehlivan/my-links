@@ -1,0 +1,7 @@
+div.page-container {
+    background: linear-gradient(to bottom, #2665d6 20%, transparent 20%, transparent 100%);
+}
+
+img.ld-profile-image {
+    border: 4px solid #fff;
+}
